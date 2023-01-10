@@ -1,3 +1,7 @@
+# ABOUT TOOL :
+
+prox-t is a bash based script that mods your device and change it from boring to awesome in just one click without any problem and without root. This tool works on both rooted Android device and non-rooted Android device.
+
 # prox-t
 
 - apt-get update -y
