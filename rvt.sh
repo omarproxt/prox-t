@@ -1,5 +1,5 @@
 #!Script  author N117R0
-#By noob hackers
+#By Team prox-t
 #Be a creative person not copy paster
 
 ###################################
