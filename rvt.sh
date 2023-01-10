@@ -34,7 +34,7 @@ echo " "
 echo ""
 echo "                           rverting wait for 10s please"
 cd $HOME
-cd T-LOAD
+cd prox-t
 cd revert 
 mv bash.bashrc $HOME 
 cd  /data/data/com.termux/files/usr/etc
